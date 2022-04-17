@@ -384,7 +384,7 @@
       "idf": "",
       "netlist": "baoProg.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../3d/baoProg.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
